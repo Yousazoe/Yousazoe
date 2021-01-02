@@ -3,10 +3,10 @@
 <!--[![github stats](https://github-readme-stats.vercel.app/api?username=Yousazoe&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-- 🍻 Study at 🇨🇳 [BNUZ](http://www.bnuz.edu.cn/), _Computer Science_
-- ⚡ C++ 
-- ✍️ [Blogger](https://yousazoe.top)
-- ♟ Chess / Chess960 
+- 🍻  Study at 🇨🇳 [BNUZ](http://www.bnuz.edu.cn/), _Computer Science_
+- ⚡  C++ 
+- ✍️  [Blogger](https://yousazoe.top)
+- ♟  Chess / Chess960 
 
 <br/>
 <center><img src="http://ghchart.rshah.org/409ba5/yousazoe" alt="" /></center>
