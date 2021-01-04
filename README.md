@@ -2,10 +2,15 @@
 
 <!--<img src = https://github-readme-stats.vercel.app/api?username=Yousazoe&count_private=true&show_icons=true/>-->
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/youszoe/count.svg" />
+</p>
+
 
 - 🍻  Study at Beijing Normal University Zhuhai, _Computer Science_
 - ⚡  C / C++ / C#
-- ✍️  Blogger -> https://yousazoe.top
+- ✍️  Blogger
 - ♟  Chess / Chess960 
 
 
