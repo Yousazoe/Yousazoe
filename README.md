@@ -3,9 +3,9 @@
 <!--<img src = https://github-readme-stats.vercel.app/api?username=Yousazoe&count_private=true&show_icons=true/>-->
 
 
-- 🍻  Study at 🇨🇳 [BNUZ](http://www.bnuz.edu.cn/), _Computer Science_
-- ⚡  C++ 
-- ✍️  [Blogger](https://yousazoe.top)
+- 🍻  Study at Beijing Normal University Zhuhai, _Computer Science_
+- ⚡  C / C++ / C#
+- ✍️  Blogger -> https://yousazoe.top
 - ♟  Chess / Chess960 
 
 
