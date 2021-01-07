@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <p align="center"> 
-  Visitor count<br>
+  <b>Visitor count<b/><br/>
   <img src="https://profile-counter.glitch.me/youszoe/count.svg" />
 </p>
 
