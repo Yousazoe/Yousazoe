@@ -5,12 +5,12 @@ on:
     branches:
       - master
   schedule:
-    - cron: '0 19 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: Yousazoe/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
