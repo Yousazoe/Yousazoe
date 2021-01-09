@@ -20,11 +20,6 @@
 #### Coding status last week ⌨️
 
 <!--START_SECTION:waka-->
-```text
-Markdown   56 mins         ██████████████████████▒░░   89.86 % 
-YAML       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-C#         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-```
 <!--END_SECTION:waka-->
 
 <br/>
