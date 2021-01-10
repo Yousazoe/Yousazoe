@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--<img src = https://github-readme-stats.vercel.app/api?username=Yousazoe&count_private=true&show_icons=true/>-->
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <p align="center"> 
