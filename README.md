@@ -20,8 +20,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-C++                5 hrs 19 mins   ███████████████████████▓░   95.32 % 
-GLSL shader file   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+C++                7 hrs 24 mins   ████████████████████████░   96.25 % 
+GLSL shader file   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 ```
 <!--END_SECTION:waka-->
 
