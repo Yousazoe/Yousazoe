@@ -20,11 +20,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown         1 hr 47 mins    ████████████████████▓░░░░   82.76 % 
-CMake            9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-GitIgnore file   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Text             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-HTML             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Markdown         41 mins         ████████████████████████░   96.22 % 
+GitIgnore file   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 ```
 <!--END_SECTION:waka-->
 
