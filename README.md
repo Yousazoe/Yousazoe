@@ -20,8 +20,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown         40 mins         ████████████████████████░   96.09 % 
-GitIgnore file   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Markdown         1 hr 49 mins    ███████████████████████▒░   93.79 % 
+GitIgnore file   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 <!--END_SECTION:waka-->
 
