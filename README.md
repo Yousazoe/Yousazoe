@@ -20,9 +20,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown         5 hrs 7 mins    █████████████████████▓░░░   86.61 % 
-YAML             33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-GitIgnore file   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Markdown         6 hrs 36 mins   ██████████████████████▒░░   89.62 % 
+YAML             33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+GitIgnore file   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 ```
 <!--END_SECTION:waka-->
 
