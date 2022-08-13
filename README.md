@@ -20,11 +20,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown         6 hrs 24 mins   █████████████████░░░░░░░░   67.43 % 
-Other            2 hrs 5 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.01 % 
-GLSL shader      48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-GitIgnore file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-HTML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Markdown   4 hrs 53 mins   ██████████████████████▒░░   88.88 % 
+Other      36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 ```
 <!--END_SECTION:waka-->
 
