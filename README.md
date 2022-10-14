@@ -13,7 +13,7 @@
 - 🍻  Study at Beijing Normal University Zhuhai, _Computer Science_
 - ⚡  C / C++ / C# / R
 - ✍️  One Hexo Blogger
-- ♟  Chess / Chess960 
+- ♟  Chess / Chess960 Player
 
 
 #### Coding status last week ⌨️
